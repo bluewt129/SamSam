@@ -23,6 +23,7 @@
 </head>
 <body>
 	<h1 id="artext">RAINBOW</h1>
-	<pre>저는 아영이에요</pre>
+	<div>나는 세웅입니다.</div>
+
 </body>
 </html>
