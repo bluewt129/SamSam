@@ -22,8 +22,8 @@
 </style>
 </head>
 <body>
-	<h1 id="artext">RAINBOW</h1>
-	<div>나는 세웅입니다.</div>
+	<h1 id="artext">RAINBOW</h1><br>
+	<div id="artext">나는 세웅입니다.</div>
 
 </body>
 </html>
