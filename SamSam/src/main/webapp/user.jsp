@@ -24,6 +24,7 @@
 <body>
 	<h1 id="artext">RAINBOW</h1><br>
 	<div id="artext">나는 세웅입니다.</div>
+	<h2>배포배포배포배포</h2>
 
 </body>
 </html>
