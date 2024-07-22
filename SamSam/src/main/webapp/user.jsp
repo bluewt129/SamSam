@@ -23,8 +23,8 @@
 </head>
 <body>
 	<h1 id="artext">RAINBOW</h1><br>
-	<div id="artext">나는 세웅입니다.</div>
-	<h2>배포배포배포배포</h2>
+	<div id="artext">그는 갔습니다</div>
+	<h2>레인보우 폰트를 남겨두고서....</h2>
 
 </body>
 </html>
